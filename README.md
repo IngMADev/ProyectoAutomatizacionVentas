@@ -3,7 +3,7 @@ Automatización de ventas de digitales con Python, Java, ciberseguridad y DevOps
 
 ## Fase 1: Preparación Entorno
 - [x] Subtask 1: Instalar VS Code
-- [ ] Subtask 2: Instalar MySQL
+- [x] Subtask 2: Instalar MySQL
 - [ ] Subtask 3: Instalar MongoDB
 - [ ] Subtask 4: Instalar JDK 21
 - [ ] Subtask 5: Instalar Maven
