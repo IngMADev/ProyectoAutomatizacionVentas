@@ -6,7 +6,7 @@ Automatización de ventas de digitales con Python, Java, ciberseguridad y DevOps
 - [x] Subtask 2: Instalar MySQL
 - [x] Subtask 3: Instalar MongoDB
 - [X] Subtask 4: Instalar JDK 21
-- [ ] Subtask 5: Instalar Maven
+- [x] Subtask 5: Instalar Maven
 - [ ] Subtask 6: Instalar OWASP ZAP
 - [ ] Subtask 7: Instalar Burp Suite
 - [ ] Subtask 8: Instalar Docker
