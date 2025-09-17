@@ -1,0 +1,8 @@
+=== Docker Test ===
+Test: Corriendo contenedor hello world.
+Date: 16/09/2025
+Descripción: Instalación exitosa de Docker Desktop (version 28.4.0) y corriendo Hello World.
+
+--- Salida ---
+Hello from Docker!
+This message shows that your installation appears to be working correctly.
