@@ -1,0 +1,22 @@
+=== Heroku CLI Test Report ===
+Test: Installing and verifying Heroku CLI
+Date: 23/09/2025
+Description: Successfully installed Heroku CLI, updated to version 10.13.2, verified login, and created a test app.
+
+--- Output ---
+heroku --version:
+heroku/10.13.2 win32-x64 node-v20.19.5
+
+heroku whoami:
+ing.madev@gmail.com
+
+heroku create:
+Creating app... done, ⬢ rocky-citadel-44772
+https://rocky-citadel-44772-c17234c9f30b.herokuapp.com/ | https://git.heroku.com/rocky-citadel-44772.git
+
+heroku apps:
+rocky-citadel-44772
+
+=== ing.madev@gmail.com Apps
+
+rocky-citadel-44772

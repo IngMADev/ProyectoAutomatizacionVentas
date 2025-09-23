@@ -10,6 +10,6 @@ Automatización de ventas de digitales con Python, Java, ciberseguridad y DevOps
 - [x] Subtask 6: Instalar OWASP ZAP
 - [x] Subtask 7: Instalar Burp Suite
 - [x] Subtask 8: Instalar Docker
-- [ ] Subtask 9: Instalar Heroku CLI
+- [x] Subtask 9: Instalar Heroku CLI
 - [ ] Subtask 10: Instalar ngrok y librerías Python
 - [ ] Subtask 11: Pruebas iniciales
