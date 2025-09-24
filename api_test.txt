@@ -1,0 +1,13 @@
+=== API Test Report ===
+Test: Initial API test with FastAPI and ngrok
+Date: 23/09/2025
+Description: Created a simple FastAPI endpoint (/test), ran locally with uvicorn, exposed with ngrok, and tested with curl/browser.
+
+--- Local Test ---
+Command: curl http://127.0.0.1:8000/test
+Output: {"message":"Hello World from ProyectoAutomatizacionVentas!"}
+
+--- ngrok Test ---
+ngrok URL: https://natividad-foggiest-unrelevantly.ngrok-free.dev
+Command: curl https://natividad-foggiest-unrelevantly.ngrok-free.dev/test
+Output: {"message":"Hello World from ProyectoAutomatizacionVentas!"}
