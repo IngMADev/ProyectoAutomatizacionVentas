@@ -11,5 +11,5 @@ Automatización de ventas de digitales con Python, Java, ciberseguridad y DevOps
 - [x] Subtask 7: Instalar Burp Suite
 - [x] Subtask 8: Instalar Docker
 - [x] Subtask 9: Instalar Heroku CLI
-- [ ] Subtask 10: Instalar ngrok y librerías Python
+- [x] Subtask 10: Instalar ngrok y librerías Python
 - [ ] Subtask 11: Pruebas iniciales
